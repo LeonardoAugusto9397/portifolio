@@ -1,0 +1,17 @@
+{
+    "name": "bga/centralloja",
+    "description": "BGA Central Loja",
+    "authors": [
+        {
+            "name": "Leonardo Augusto",
+            "email": "leonardo@bgasystems.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "Sts\\": "app"
+        }
+    },
+    "require": {}
+}
